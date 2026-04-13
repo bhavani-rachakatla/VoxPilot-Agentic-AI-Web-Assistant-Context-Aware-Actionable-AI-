@@ -41,6 +41,8 @@ It enables real-time interaction with digital environments using contextual awar
 5. Execution Layer (UI interaction / API calls)  
 6. Feedback Loop (state update + iteration)
 
+<img width="1106" height="526" alt="image" src="https://github.com/user-attachments/assets/bcc8b359-33b2-4a0b-998b-7c1d497e4f18" />
+
 ---
 
 ## 📊 Results
